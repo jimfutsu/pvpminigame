@@ -1,0 +1,18 @@
+name: PvPGame
+main: me.jimfutsu.roundpvpgame.Main
+version: 1.0
+author: jimfutsu
+commands:
+  GameSetup:
+    description: Admin command for game setup
+    usage: /<command>
+    aliases: []
+  HostGame:
+    description: Opens the host menu
+    usage: /<command>
+    aliases: []
+  JoinGame:
+    description: Joins the current game
+    usage: /<command>
+    aliases: []
+
